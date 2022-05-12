@@ -13,5 +13,6 @@ public class area {
         else
             System.out.println(num + " is odd");
     }
+    //even
 
 }
