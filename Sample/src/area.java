@@ -14,5 +14,5 @@ public class area {
             System.out.println(num + " is odd");
     }
     //even
-
+//area example
 }
