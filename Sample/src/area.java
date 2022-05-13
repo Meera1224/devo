@@ -12,7 +12,8 @@ public class area {
             System.out.println(num + " is even");
         else
             System.out.println(num + " is odd");
+        System.out.println("ji");
     }
     //even
-
+   
 }
