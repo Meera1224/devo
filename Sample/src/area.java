@@ -12,9 +12,15 @@ public class area {
             System.out.println(num + " is even");
         else
             System.out.println(num + " is odd");
+
+        System.out.println("ji");
+    }
+    //even
+   
+
         System.out.println("Feature3");
     }
     //even
 //area example
-    
+
 }
